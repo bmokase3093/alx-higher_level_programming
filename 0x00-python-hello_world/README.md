@@ -8,3 +8,4 @@ Complete this source code to print Welcome to Holberton School!
 Complete the sorce code by slicing the string
 Complete this source code to print object-oriented programming with Python, followed by a new line.
 Write a Python script that prints “The Zen of Python”, by TimPeters, followed by a new line.
+Write a fucntion that checks if a singly linked list has a cycle in it
