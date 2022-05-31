@@ -13,3 +13,4 @@ Write a Python script that prints exactly and that piece of art is useful - Dora
 Write a script that compiles a Python script file.
 
 The Python file name will be stored in the environment variable 
+Write the Python function def magic_calculation(a, b): that does exactly the same as the following Python bytecode
