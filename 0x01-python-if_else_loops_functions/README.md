@@ -29,3 +29,4 @@ For multiples of three print Fizz instead of the number and for multiples of fiv
 For numbers which are multiples of both three and five print FizzBuzz.
 Write a program that prints the ASCII alphabet, in reverse order, alternating lowercase and uppercase (z in lowercase and Y in uppercase) , not followed by a new line.
 Write a function that creates a copy of the string, removing the character at the position n (not the Python way, the “C array index”).
+Write the Python function def magic_calculation(a, b, c): that does exactly the same as the following Python bytecode:
