@@ -18,3 +18,4 @@ The two digits must be different
 Print only the smallest combination of two digits
 Numbers should be printed in ascending order, with two digits
 The last number should be followed by a new line
+Write a function that checks for lowercase character.
