@@ -5,3 +5,8 @@ Write a program that prints the ASCII alphabet, in lowercase, not followed by a 
 
 Print all the letters except q and e
 Write a program that prints all numbers from 0 to 98 in decimal and in hexadecimal
+Write a program that prints numbers from 0 to 99.
+
+Numbers must be separated by ,, followed by a space
+Numbers should be printed in ascending order, with two digits
+The last number should be followed by a new line
