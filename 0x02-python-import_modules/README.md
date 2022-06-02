@@ -23,3 +23,4 @@ Write a program that imports the variable a from the file variable_load_5.py and
 You are not allowed to use * for importing or __import__
 Your code should not be executed when imported
 Write a program that imports all functions from the file calculator_1.py and handles basic operations.
+Write a program that prints #pythoniscool, followed by a new line, in the standard output
