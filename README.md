@@ -9,3 +9,5 @@ PROJECTS
 
 1. 0x00-python-hello_world
 Getting started with Python. Formating output and string manipulation.
+Working with Python - if/else, loops, functions
+Python - import & modules
