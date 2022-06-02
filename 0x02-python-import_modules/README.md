@@ -18,3 +18,7 @@ The output should be the result of the addition of all arguments, followed by a 
 You can cast arguments into integers by using int() (you can assume that all arguments can be casted into integers)
 Your code should not be executed when imported
 Write a program that prints all the names defined by the compiled module hidden_4.pyc (please download it locally).
+Write a program that imports the variable a from the file variable_load_5.py and prints its value.
+
+You are not allowed to use * for importing or __import__
+Your code should not be executed when imported
