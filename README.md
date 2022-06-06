@@ -11,3 +11,4 @@ PROJECTS
 Getting started with Python. Formating output and string manipulation.
 Working with Python - if/else, loops, functions
 Python - import & modules
+Data Structures: Lists, Tuples
