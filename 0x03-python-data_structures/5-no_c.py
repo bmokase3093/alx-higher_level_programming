@@ -4,4 +4,4 @@ def no_c(my_string):
     for cC in lisChars:
         if cC == 'c' or cC == 'C':
             lisChars.remove(cC)
-    return(lisChars)
+    return("".join(lisChars))
