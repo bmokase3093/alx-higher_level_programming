@@ -9,3 +9,5 @@ Write a function that prints an integer.
 Write a function that executes a function safely.
 Write a function that executes a function safely.
 Write the Python function def magic_calculation(a, b): that does exactly the same as the following Python bytecode:
+Create three C functions that print some basic info about Python lists, Python bytes an Python float objects.
+
