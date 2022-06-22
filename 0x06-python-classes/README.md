@@ -87,3 +87,4 @@ Instantiation with size: def __init__(self, size=0):
 Public instance method: def area(self): that returns the current square area
 Square instance can answer to comparators: ==, !=, >, >=, < and <= based on the square area
 You are not allowed to import any module
+Write the Python class MagicClass that does exactly the same as the following Python bytecode:
