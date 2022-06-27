@@ -12,3 +12,8 @@ Getting started with Python. Formating output and string manipulation.
 Working with Python - if/else, loops, functions
 Python - import & modules
 Data Structures: Lists, Tuples
+More Data Structures: Set, Dictionary
+Working with Python Exceptions
+Working with Classes and Objects
+## More about Python classes
+## Write an empty class Rectangle that defines a rectangle:
