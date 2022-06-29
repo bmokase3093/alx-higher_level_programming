@@ -5,3 +5,4 @@ How do you get the variable identifier (which is the memory address in the CPyth
 In the following code, do a and b point to the same object? Answer with Yes or No.
 In the following code, do a and b point to the same object? Answer with Yes or No.
 In the following code, do a and b point to the same object? Answer with Yes or No.
+In the following code, do a and b point to the same object? Answer with Yes or No.
