@@ -29,3 +29,10 @@ Assuming we are using a CPython implementation of Python3 with default options/c
 
 How many int objects are created by the execution of the first line of the script? (103-line1.txt)
 How many int objects are created by the execution of the second line of the script (103-line2.txt)
+Assuming we are using a CPython implementation of Python3 with default options/configuration:
+
+How many int objects are created by the execution of the first line of the script? (104-line1.txt)
+How many int objects are created by the execution of the second line of the script (104-line2.txt)
+After the execution of line 3, is the int object pointed by a deleted? Answer with Yes or No (104-line3.txt)
+After the execution of line 4, is the int object pointed by b deleted? Answer with Yes or No (104-line4.txt)
+How many int objects are created by the execution of the last line of the script (104-line5.txt)
