@@ -8,3 +8,4 @@ In the following code, do a and b point to the same object? Answer with Yes or N
 In the following code, do a and b point to the same object? Answer with Yes or No.
 What do these 3 lines print?
 What do these 3 lines print?
+What does this script print?
