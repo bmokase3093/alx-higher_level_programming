@@ -34,3 +34,9 @@ Prototype: def text_indentation(text):
 text must be a string, otherwise raise a TypeError exception with the message text must be a string
 There should be no space at the beginning or at the end of each printed line
 You are not allowed to import any module
+Write a function that multiplies 2 matrices by using the module NumPy
+
+To install it: pip3 install numpy==1.15.0
+
+Prototype: def lazy_matrix_mul(m_a, m_b):
+Test cases should be the same as 100-matrix_mul but with new exception type/message
