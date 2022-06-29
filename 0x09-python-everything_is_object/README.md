@@ -16,3 +16,4 @@ Your file should be maximum 3-line long (no documentation needed)
 You are not allowed to import any module
 Is a a tuple? Answer with Yes or No.
 What does this script print?
+Will the last line of this script print 139926795932424? Answer with Yes or No.
