@@ -17,3 +17,5 @@ Working with Python Exceptions
 Working with Classes and Objects
 ## More about Python classes
 ## Write an empty class Rectangle that defines a rectangle:
+Test-driven development
+Python - Everything is object
