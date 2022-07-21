@@ -53,3 +53,9 @@ Write a class Rectangle that inherits from BaseGeometry (7-base_geometry.py).
 Instantiation with width and height: def __init__(self, width, height):
 width and height must be private. No getter or setter
 width and height must be positive integers, validated by integer_validator
+Write a class Square that inherits from Rectangle (9-rectangle.py):
+
+Instantiation with size: def __init__(self, size)::
+size must be private. No getter or setter
+size must be a positive integer, validated by integer_validator
+the area() method must be implemented
