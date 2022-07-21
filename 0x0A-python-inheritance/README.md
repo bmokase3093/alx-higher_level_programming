@@ -20,3 +20,6 @@ Write a function that returns True if the object is an instance of a class that 
 
 Prototype: def inherits_from(obj, a_class):
 You are not allowed to import any module
+Write an empty class BaseGeometry.
+
+You are not allowed to import any module
