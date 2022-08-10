@@ -91,3 +91,6 @@ You need to convert all of the following to UTF8:
 Database hbtn_0c_0
 Table first_table
 Field name in first_table
+Import in hbtn_0c_0 database this table dump: download
+
+Write a script that displays the average temperature (Fahrenheit) by city ordered by temperature (descending).
