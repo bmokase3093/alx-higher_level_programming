@@ -3,6 +3,7 @@
 -- Each record should display tv_shows.title, tv_genres.name
 -- Results must be sorted in ascending order by show title
 -- You can only use one SELECT statement
+
 SELECT s.title, g.name
 FROM tv_shows s
 LEFT JOIN tv_show_genres m ON s.id = m.show_id
