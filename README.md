@@ -19,3 +19,6 @@ Working with Classes and Objects
 ## Write an empty class Rectangle that defines a rectangle:
 Test-driven development
 Python - Everything is object
+Python - Input/Output
+Python Inheritance
+SQL Introduction
